@@ -44,7 +44,7 @@
           <collectionProp name="HeaderManager.headers">
             <elementProp name="" elementType="Header">
               <stringProp name="Header.name">token</stringProp>
-              <stringProp name="Header.value">a6e3eb12-007b-44a2-a27b-d0be0788907b</stringProp>
+              <stringProp name="Header.value">33a86364-0c83-49cc-a589-16b348a34c9f</stringProp>
             </elementProp>
             <elementProp name="" elementType="Header">
               <stringProp name="Header.name">Content-Type</stringProp>
